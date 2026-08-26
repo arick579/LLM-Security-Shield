@@ -32,4 +32,4 @@ uvicorn proxy_server:app --reload
 ```
 **3. Run the Traffic Simulator (in a new terminal):**
 ```bash
-python hacker_sim.py
+python simulator.py
