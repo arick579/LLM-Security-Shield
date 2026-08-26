@@ -19,7 +19,7 @@ An asynchronous Python security proxy designed to sanitize PII and intercept zer
 <img width="1273" height="305" alt="Screenshot 2026-07-24 130000" src="https://github.com/user-attachments/assets/4e3ad1f9-4cb2-469d-981c-022012d98712" />
 
 **Automated Threat Metrics**
-<img width="1120" height="706" alt="Screenshot 2026-07-24 130102" src="https://github.com/user-attachments/assets/0df61e90-6eb3-425d-a811-01e7cb7a9d9f" />
+<img width="1120" height="706" alt="Screenshot 2026-07-24 130102" src="https://github.com/user-attachments/assets/ee4d160d-5484-4f6e-aea3-651bc2353b47" />
 
 ## How to Run Locally
 **1. Install Dependencies:**
