@@ -1,3 +1,4 @@
+![Python CI Pipeline](https://github.com/arick579/LLM-Security-Shield/actions/workflows/deploy.yml/badge.svg)
 # LLM-Security-Shield
 
 An asynchronous Python security proxy designed to sanitize PII and intercept zero-day prompt injection attacks before they reach production Large Language Models (LLMs).
