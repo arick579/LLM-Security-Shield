@@ -13,9 +13,7 @@ def redact_pii(prompt: str) -> str:
     scrubbed_prompt = re.sub(ssn_pattern, '[REDACTED_SSN]', prompt)
     scrubbed_prompt = re.sub(email_pattern, '[REDACTED_EMAIL]', scrubbed_prompt)
     scrubbed_prompt = re.sub(phone_pattern, '[REDACTED_PHONE]', scrubbed_prompt)
-
     return scrubbed_prompt
-
 
 if __name__ == "__main__":
     print("--- PII Redactor Test ---")
